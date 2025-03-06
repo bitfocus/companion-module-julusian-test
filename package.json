@@ -1,5 +1,5 @@
 {
-	"name": "your-module-name",
+	"name": "julusian-test",
 	"version": "0.1.1",
 	"main": "dist/main.js",
 	"type": "module",
@@ -16,13 +16,13 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-your-module-name.git"
+		"url": "git+https://github.com/bitfocus/companion-module-julusian-test.git"
 	},
 	"dependencies": {
-		"@companion-module/base": "~1.11.2"
+		"@companion-module/base": "~1.12.0-0"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.1.1",
+		"@companion-module/tools": "^2.2.0",
 		"@types/node": "^22.10.2",
 		"eslint": "^9.17.0",
 		"husky": "^9.1.7",
