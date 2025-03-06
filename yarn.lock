@@ -22,9 +22,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@companion-module/tools@npm:^2.2.0":
-  version: 2.2.0
-  resolution: "@companion-module/tools@npm:2.2.0"
+"@companion-module/tools@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "@companion-module/tools@npm:2.2.1"
   dependencies:
     "@eslint/js": "npm:^9.19.0"
     eslint-config-prettier: "npm:^10.0.1"
@@ -53,7 +53,7 @@ __metadata:
     companion-generate-manifest: scripts/generate-manifest.js
     companion-module-build: scripts/build.js
     companion-module-check: scripts/check.js
-  checksum: 10c0/3450714bff7c3dbd4193aba315af5bddc4adbebd8397e18a78932318f5f1634137090573fac7d768fb31de1deb00d9112285a22d7382b89abc40e2c81bef445a
+  checksum: 10c0/55451ae32adf89dd88acefeea35c4a265ed8c1a46ef3af7e2f9bbd1549724efa78219a3cf257f5242cdf185584dcd2afd2edee9d461132c53747fdd630affd93
   languageName: node
   linkType: hard
 
@@ -1830,7 +1830,7 @@ __metadata:
   resolution: "julusian-test@workspace:."
   dependencies:
     "@companion-module/base": "npm:~1.12.0-1"
-    "@companion-module/tools": "npm:^2.2.0"
+    "@companion-module/tools": "npm:^2.2.1"
     "@types/node": "npm:^22.10.2"
     eslint: "npm:^9.17.0"
     husky: "npm:^9.1.7"
