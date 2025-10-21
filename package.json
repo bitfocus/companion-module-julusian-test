@@ -1,6 +1,6 @@
 {
 	"name": "julusian-test",
-	"version": "0.1.11",
+	"version": "0.1.12",
 	"main": "dist/main.js",
 	"type": "module",
 	"scripts": {
